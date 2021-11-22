@@ -59,7 +59,7 @@
     list-style-type: none;
   }
   .leftsidebar ul li {
-    margin: 49px 0px;
+    margin: 35px 0px;
     font-size:30px;
   }
   /* left aside bar ends */
@@ -73,7 +73,7 @@
     margin-left: 27%;
   }
   .middlebody img{
-    width:30%;
+    width:25%;
     height:auto;
     margin: 50px 15px;
   }
@@ -94,7 +94,7 @@
     list-style-type: none;
   }
   .right-sidebar li{
-    margin:87px 0px;
+    margin:65px 0px;
     font-size: 40px;
   }
   /* right aside bar ends */
